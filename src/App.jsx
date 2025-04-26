@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Login from "./Pages/Login/Login"
 import Background from "./Components/LoginBackground/Background"
 import Signup from "./Pages/Signup/Signup"
@@ -18,49 +18,38 @@ import CreatePost from "./Pages/CreatePost/CreatePost"
 import PopUpLayout from "./Components/Layout/PopUpLayout"
 import CreatePage from "./Pages/CreatePage/CreatePage"
 function App() {
- const router= createBrowserRouter(
-  [{
-    path:"/",
-    element:<Layout/>,
-    children:[
-      {path:"/",element:<Login/>},
-      {path:"/signup",element:<Signup/>},
-      {path:"/customImage",element:<CustomImage/>},
-      {path:"/ForgetPassword",element:<ForgetPassword/>},
-    ]
-  },
-  {
-    path:"/Home",
-    element:<HomeLayout/>,
-    children:[
-      {path:"/Home",element:<Home/>},
-      {path:"/Home/profile",element:<Profile/>},
-      {path:"/Home/Friends" ,element:<Friends/>},
-      {path:"/Home/Pages" ,element:<Pages/>},
-      {path:"/Home/Page" ,element:<NewPage/>},
-      {path:"/Home/YourFriend" ,element:<YourFriend/>},
-      {path:"/Home/AcceptFriend" ,element:<AcceptFriends/>},
-      
-    ]
-  },
-  {path:"/Home/" ,
-    element:<PopUpLayout/>,
-    children:[
-      {path:"/Home/CreatePost", element:<CreatePost/>},
-      {path:"/Home/CreatePage", element:<CreatePage/>}
-    ]
-  }
-
-
-
-
-]
- )
-
+ 
   return (
-    <>
-      <RouterProvider router={router}/>
-    </>
+    <BrowserRouter basename="/New-_FacePost"> {/* 👈 VERY IMPORTANT */}
+    <Routes>
+
+      {/* Main Layout */}
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Login />} />
+        <Route path="signup" element={<Signup />} />
+        <Route path="customImage" element={<CustomImage />} />
+        <Route path="ForgetPassword" element={<ForgetPassword />} />
+      </Route>
+
+      {/* Home Layout */}
+      <Route path="/Home" element={<HomeLayout />}>
+        <Route index element={<Home />} />
+        <Route path="profile" element={<Profile />} />
+        <Route path="Friends" element={<Friends />} />
+        <Route path="Pages" element={<Pages />} />
+        <Route path="Page" element={<NewPage />} />
+        <Route path="YourFriend" element={<YourFriend />} />
+        <Route path="AcceptFriend" element={<AcceptFriends />} />
+      </Route>
+
+      {/* PopUp Layout */}
+      <Route path="/Home" element={<PopUpLayout />}>
+        <Route path="CreatePost" element={<CreatePost />} />
+        <Route path="CreatePage" element={<CreatePage />} />
+      </Route>
+
+    </Routes>
+  </BrowserRouter>
   )
 }
 
