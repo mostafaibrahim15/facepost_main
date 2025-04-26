@@ -12,131 +12,131 @@ export default function AcceptFriends() {
         {
           id:1234,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12345,
           FriendName:"Mohamed Khaled",
-          FriendImage:"/assets/img/whatsapp3.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:220,
           MutualImage:{
-            first:"/assets/img/whatsapp.jpg",
-            second:"/assets/img/whatsapp2.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:1234,
           FriendName:"Abdallah Samer",
-          FriendImage:"/assets/img/whatsapp2.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:320,
           MutualImage:{
-            first:"/assets/img/whatsapp.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:1234,
           FriendName:"Mostafa Saied",
-          FriendImage:"/assets/img/whatsapp4.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:510,
           MutualImage:{
-            first:"/assets/img/whatsapp.jpg",
-            second:"/assets/img/whatsapp2.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:123466,
           FriendName:"Ahmed Anwar",
-          FriendImage:"/assets/img/whatsapp4.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:1234,
           FriendName:"ibrahim Mosaad",
-          FriendImage:"/assets/img/whatsapp6.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12349,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12344,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12340,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:123478,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12344521,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:12341596,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
         {
           id:1234000,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"/assets/img/whatsapp.jpg",
+          FriendImage:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"/assets/img/whatsapp4.jpg",
-            second:"/assets/img/whatsapp3.jpg"
+            first:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+            second:"https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"
           }
         },
       ]

@@ -28,59 +28,59 @@ export default function Profile() {
   const myPost=[
     {
       id:20,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp21.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s"
     },
     {
       id:20121,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp22.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s "
     },
     {
       id:2000,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp23.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s"
     },
     {
       id:2074586,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp22.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s "
     },
     {
       id:204568,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp20.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s"
     },
     {
       id:204523,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp21.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s "
     },
     {
       id:20415,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj',
       AvatarTitle:"Al Ahly SC",
       Time:"2m",
       Discription:"هنا الاهلى هنا ابطال الدورى ",
-      image:"/assets/img/whatsapp24.jpg "
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6EfolncyI49pmywn8SG-x6nLgb8x4Yi0zA&s"
     },
     
   ]
@@ -105,12 +105,12 @@ export default function Profile() {
       }
      }}>
        <div className=' h-[55vh] border rounded-md relative'>
-        <img alt='profiel cover' src='/assets/img/whatsapp20.jpg' className='w-full h-full object-cover border rounded-md'/>
+        <img alt='profiel cover' src='https://waya.media/arabi/wp-content/uploads/sites/2/2021/11/Al-Ahly-1600px.jpg' className='w-full h-full object-cover border rounded-md'/>
         
        
 
         <div className='w-[200px] h-[200px] absolute top-[70%] left-2 bg-black border-3 border-white rounded-full'>
-        <img alt='profiel cover' src='/assets/img/whatsapp8.jpg' className='w-full h-full object-cover border rounded-full'/>
+        <img alt='profiel cover' src='https://yt3.googleusercontent.com/yrY1DmfWUL92B98od7vzgVMye6tUIJ_Rx80_vsKN6cw4uh_V1QJ_pl20QXD0CdXtSnUBH2sm7g=s900-c-k-c0x00ffffff-no-rj' className='w-full h-full object-cover border rounded-full'/>
         </div>
          
         
@@ -130,10 +130,10 @@ export default function Profile() {
           <h1 className='text-slate-800'>Al Ahly SC <CheckCircleSharp sx={{ color:"blue"}}/></h1>
           <h6 className='text-[.9rem] ml-4 text-slate-600'>14M <em className='text-slate-400'>Likes</em> . 18M <em className='text-slate-400'>followers</em></h6>
           <div className='flex '>
-            <Avatar alt='frinds' src='/assets/img/whatsapp2.jpg'sx={{ml:"1px",mt:2,}}/>
-            <Avatar alt='frinds' src='/assets/img/whatsapp3.jpg'sx={{ml:"1px",mt:2}}/>
-            <Avatar alt='frinds' src='/assets/img/whatsapp4.jpg'sx={{ml:"1px",mt:2}}/>
-            <Avatar alt='frinds' src='/assets/img/whatsapp5.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'sx={{ml:"1px",mt:2,}}/>
+            <Avatar alt='frinds' src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'sx={{ml:"1px",mt:2}}/>
           </div>
           <h1 className='text-gray-600 text-[1.1rem] my-3'>Welcom to Al Ahly SC Official FacePost Page  الصفحة الرسمية للنادى الأهلى </h1>
         </div>

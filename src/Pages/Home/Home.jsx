@@ -17,15 +17,15 @@ export default function Home() {
   const myDataOfPst=[
     {
       id:1,
-      AvatarImage:'/assets/img/whatsapp.jpg',
+      AvatarImage:'https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:"/assets/img/whatsapp.jpg"
+      image:"https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
     },
     {
       id:2,
-      AvatarImage:'/assets/img/whatsapp.jpg',
+      AvatarImage:'https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -34,11 +34,11 @@ export default function Home() {
     
     {
       id:3,
-      AvatarImage:'/assets/img/whatsapp8.jpg',
+      AvatarImage:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7Lj7a7pY74UJu5e1o1lYwSfmlqgmza7_JQ&s',
       AvatarTitle:"AlAhly SC",
       Time:"10m",
       Discription:"الأهلي يشكر وزير الداخلية والقيادات الأمنية للموافقة على طلب النادي بالسعة الكاملة في لقاء صن داون",
-      image:"/assets/img/whatsapp7.jpg"
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutgI2CKc9bcT1jKGy0e8CE58iyWHKd3p2ZQ&s"
     },
     {
       id:4,
@@ -50,7 +50,7 @@ export default function Home() {
     },
     {
       id:16,
-      AvatarImage:'/assets/img/whatsapp.jpg',
+      AvatarImage:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfDxCdogwkPjBKrEmqfnyS4J1YUBjgIlPOQ&s',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -66,23 +66,23 @@ export default function Home() {
     },
     {
       id:6,
-      AvatarImage:'/assets/img/whatsapp2.jpg',
+      AvatarImage:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6Q9mHSubF0fd44vKYMUmB3gmbb7BvrO9Qw&s',
       AvatarTitle:"Abdallah samer",
       Time:"30m",
       Discription:"i'm abdallah lorem ipsom ",
-      image:"/assets/img/whatsapp2.jpg"
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6Q9mHSubF0fd44vKYMUmB3gmbb7BvrO9Qw&s"
     },
     {
       id:7,
-      AvatarImage:'/assets/img/whatsapp4.jpg',
+      AvatarImage:'https://img.freepik.com/premium-vector/im-letter-logo-initial-im-letter-business-logo-design-vector-template_754537-753.jpg',
       AvatarTitle:"Ahmed Anwar",
       Time:"now",
       Discription:"i'mAhmed haled lorem ipsom ",
-      image:"/assets/img/whatsapp4.jpg"
+      image:"https://img.freepik.com/premium-vector/im-letter-logo-initial-im-letter-business-logo-design-vector-template_754537-753.jpg"
     },
     {
       id:8,
-      AvatarImage:'/assets/img/whatsapp.jpg',
+      AvatarImage:'https://www.shutterstock.com/image-vector/im-letter-logo-icon-design-260nw-2019181664.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -90,7 +90,7 @@ export default function Home() {
     },
     {
       id:9,
-      AvatarImage:'/assets/img/whatsapp.jpg',
+      AvatarImage:'https://www.shutterstock.com/image-vector/im-letter-logo-icon-design-260nw-2019181664.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -98,52 +98,13 @@ export default function Home() {
     },
     {
       id:10,
-      AvatarImage:'/assets/img/whatsapp5.jpg',
+      AvatarImage:'https://www.shutterstock.com/image-vector/im-letter-logo-icon-design-260nw-2019181664.jpg',
       AvatarTitle:"mostafa Saaed",
       Time:"1h",
       Discription:"i'm mostafa haled lorem ipsom ",
-      image:"/assets/img/whatsapp5.jpg"
+      image:"https://www.shutterstock.com/image-vector/im-letter-logo-icon-design-260nw-2019181664.jpg"
     },
-    {
-      id:11,
-      AvatarImage:'/assets/img/whatsapp.jpg',
-      AvatarTitle:"mostafa Ibrahim",
-      Time:"2m",
-      Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:" "
-    },
-    {
-      id:12,
-      AvatarImage:'/assets/img/whatsapp.jpg',
-      AvatarTitle:"mostafa Ibrahim",
-      Time:"2m",
-      Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:" "
-    },
-    {
-      id:13,
-      AvatarImage:'/assets/img/whatsapp6.jpg',
-      AvatarTitle:"Ibrahem Mosaad",
-      Time:"33m",
-      Discription:"i'm  ibrahim haled lorem ipsom ",
-      image:"/assets/img/whatsapp6.jpg"
-    },
-    {
-      id:14,
-      AvatarImage:'/assets/img/whatsapp.jpg',
-      AvatarTitle:"mostafa Ibrahim",
-      Time:"2m",
-      Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCBQAq4fDkjizcfZGBW_6ir3gL4Kd8b_3fA&s"
-    },
-    {
-      id:15,
-      AvatarImage:'/assets/img/whatsapp.jpg',
-      AvatarTitle:"mostafa Ibrahim",
-      Time:"2m",
-      Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:" "
-    },
+    
   ]
 
   
@@ -168,7 +129,7 @@ py:1
  <div className=' w-[100%] h-[100%] flex  flex-row justify-between items-center px-sm-3 px-md-5 py-1'>
       
      <div className='flex justify-center items-center'>
-     <Avatar alt="Remy Sharp" src="https://mui.com/static/images/avatar/1.jpg"  sx={{mr:{
+     <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"  sx={{mr:{
       xs:1,
       sm:3
      }}}/>
@@ -209,7 +170,7 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md border-black flex-col justify-start items-center relative '>
           <div className='w-100 h-[70%] '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp.jpg" className='w-100 h-100 object-cover ' />
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 object-cover ' />
           </div>
           <div className='absolute top-[60%] left-[30%] z-20 mb-4'>
           <Fab color="primary" aria-label="add" size='small' >
@@ -229,13 +190,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100  border  rounded-md'>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>mostafa ibrahim</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -247,13 +208,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp2.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>Abdallah samer</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp2.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -265,13 +226,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp3.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>mohamed khald</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp3.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -283,13 +244,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp4.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>ahmed anwar</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp4.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -301,13 +262,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp5.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>mostafa saiid</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp5.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -319,13 +280,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp6.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>ibrahim mosaad</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp6.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -337,13 +298,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp3.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>mohamed khald</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp3.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>
@@ -355,13 +316,13 @@ m:"auto",
     <Paper sx={{mt:1}} elevation={6}>
       <div className=' h-[230px] max-w-screen-sm-[100px] max-w-screen-lg-[210px] border rounded-md  flex-col justify-start items-center relative '>
           <div className='w-100 h-100 '>
-            <img alt='create story image' src="../../../public/assets/img/whatsapp3.jpg" className='w-100 h-100 border rounded-md object-cover'/>
+            <img alt='create story image' src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" className='w-100 h-100 border rounded-md object-cover'/>
           </div>
           <div className='absolute top-[85%] left-[15%] z-20 mb-4'>
               <p className='text-slate-300 text-sm'>mohamed khald</p>
           </div>
           <div className='absolute top-[5%] left-[5%] z-20 mb-4  border-3 border-lime-500 rounded-full '>
-              <Avatar src='../../../public/assets/img/whatsapp3.jpg'/>
+              <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
           </div>
           
       </div>

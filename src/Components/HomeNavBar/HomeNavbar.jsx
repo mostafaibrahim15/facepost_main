@@ -165,7 +165,7 @@ export default function HomeNavbar({setShowDrawer,openOrClose,setOpenOrClose}) {
           <Box sx={{ flexGrow: 0 }}>
           
             <Link to={'/Home/Profile'} style={{textDecoration:"none", fontSize:".7rem", color:"#000"}}>
-                <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp.jpg"  />
+                <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg"  />
             </Link>
             
             

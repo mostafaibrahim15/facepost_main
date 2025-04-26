@@ -91,9 +91,9 @@ export default function YourFriend() {
             </div>
             <div className='flex justify-start items-center'>
                      <div className='flex'>
-                     <Avatar src='../../../public/assets/img/whatsapp.jpg'/>
-                     <Avatar src='../../../public/assets/img/whatsapp2.jpg'/>
-                     <Avatar src='../../../public/assets/img/whatsapp3.jpg'/>
+                     <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
+                     <Avatar src='.https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
+                     <Avatar src='https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg'/>
                      </div>
                      <div>
                         <p className='text-slate-400 ml-4 text-[.6rem]'>mohamed khaled , abdallah smaer,mostafa ibrahim have a birthday today</p>
@@ -121,7 +121,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial" sx={{textAlign:"center"}}>
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Mostafa Ibrahim</Link>
@@ -137,7 +137,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp2.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Abdallah Samer</Link>
@@ -153,7 +153,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp3.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Mohamed Khaled</Link>
@@ -169,7 +169,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp4.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Ahmed Anwar</Link>
@@ -185,7 +185,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp5.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Ahmed anwar</Link>
@@ -217,7 +217,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp2.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Abdallah Samer</Link>
@@ -233,7 +233,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp3.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Mohamed Khaled</Link>
@@ -249,7 +249,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp4.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Ahmed Anwar</Link>
@@ -265,7 +265,7 @@ export default function YourFriend() {
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
         variant="dot"
       >
-        <Avatar alt="Remy Sharp" src="../../../public/assets/img/whatsapp5.jpg" />
+        <Avatar alt="Remy Sharp" src="https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg" />
       </StyledBadge>
           <Typography variant="body1" color="initial">
           <Link to={'/Home/Profile'} style={{marginLeft:6,textDecoration:"none",color:"inherit"}} >Ahmed anwar</Link>
