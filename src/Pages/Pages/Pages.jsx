@@ -25,7 +25,7 @@ const navegator = useNavigate()
     {
       id:111,
       PageName:" Al Ahly SC",
-      pageImage:"../../../public/assets/img/whatsapp8.jpg",
+      pageImage:"/assets/img/whatsapp8.jpg",
       SubDiscription:"Sports Club",
       Followers:"18M",
       discription:"wellcom to Al Ahly SC Official FacePost Page  الصفحة الرئيسية للنادلا الأهلى ",
@@ -35,7 +35,7 @@ const navegator = useNavigate()
     {
       id:2222,
       PageName:" FC Barcelona",
-      pageImage:"../../../public/assets/img/whatsapp16.jpg",
+      pageImage:"/assets/img/whatsapp16.jpg",
       SubDiscription:"Sports Club",
       Followers:"118M",
       discription:"More than a club. Mes que un Club We #BarcaFans #ForcaBarcA",
@@ -45,7 +45,7 @@ const navegator = useNavigate()
     {
       id:33333,
       PageName:"Real Madris C.F.",
-      pageImage:"../../../public/assets/img/whatsapp11.jpg",
+      pageImage:"/assets/img/whatsapp11.jpg",
       SubDiscription:"Sports Club",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",
@@ -55,7 +55,7 @@ const navegator = useNavigate()
     {
       id:4555555,
       PageName:"Saba7o Korah - صباحو كورة",
-      pageImage:"../../../public/assets/img/whatsapp12.jpg",
+      pageImage:"/assets/img/whatsapp12.jpg",
       SubDiscription:"Interest",
       Followers:"2.2M",
       discription:"WWW.instagram.com/Nsoo7y www.Twitter.com/Nsoo7y www.Youtube.Com/Saba7oKorah",
@@ -65,7 +65,7 @@ const navegator = useNavigate()
     {
       id:59999,
       PageName:"Erza3-أرزع",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/assets/img/whatsapp13.jpg",
       SubDiscription:"Sports",
       Followers:"1.8M",
       discription:"لو جاى تتفرج عشان مستنى تحليل وتكتيك .. أحب أبشرك انت فى المكان الغلط علشان احنا جايين نرزع",
@@ -75,7 +75,7 @@ const navegator = useNavigate()
     {
       id:3333300,
       PageName:"The painter",
-      pageImage:"../../../public/assets/img/whatsapp11.jpg",
+      pageImage:"/assets/img/whatsapp11.jpg",
       SubDiscription:"pint",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",
@@ -85,7 +85,7 @@ const navegator = useNavigate()
     {
       id:455555500,
       PageName:"MO-Sports",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/assets/img/whatsapp13.jpg",
       SubDiscription:"Interest",
       Followers:"2.2M",
       discription:"WWW.instagram.com/Nsoo7y www.Twitter.com/Nsoo7y www.Youtube.Com/Saba7oKorah",
@@ -95,7 +95,7 @@ const navegator = useNavigate()
     {
       id:5999900,
       PageName:"Classy",
-      pageImage:"../../../public/assets/img/whatsapp16.jpg",
+      pageImage:"/assets/img/whatsapp16.jpg",
       SubDiscription:"Sports",
       Followers:"1.8M",
       discription:"لو جاى تتفرج عشان مستنى تحليل وتكتيك .. أحب أبشرك انت فى المكان الغلط علشان احنا جايين نرزع",
@@ -105,7 +105,7 @@ const navegator = useNavigate()
     {
       id:2222001,
       PageName:" FrontEnd",
-      pageImage:"../../../public/assets/img/whatsapp14.jpg",
+      pageImage:"/assets/img/whatsapp14.jpg",
       SubDiscription:"Sports Club",
       Followers:"118M",
       discription:"More than a club. Mes que un Club We #BarcaFans #ForcaBarcA",
@@ -115,7 +115,7 @@ const navegator = useNavigate()
     {
       id:3333320001,
       PageName:"Mazike",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/assets/img/whatsapp13.jpg",
       SubDiscription:"Music",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",
@@ -129,7 +129,7 @@ const navegator = useNavigate()
      {
       id:3333300,
       PageName:"The painter",
-      pageImage:"../../../public/assets/img/whatsapp11.jpg",
+      pageImage:"/assets/img/whatsapp11.jpg",
       SubDiscription:"pint",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",
@@ -139,7 +139,7 @@ const navegator = useNavigate()
     {
       id:455555500,
       PageName:"MO-Sports",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/assets/img/whatsapp13.jpg",
       SubDiscription:"Interest",
       Followers:"2.2M",
       discription:"WWW.instagram.com/Nsoo7y www.Twitter.com/Nsoo7y www.Youtube.Com/Saba7oKorah",
@@ -149,7 +149,7 @@ const navegator = useNavigate()
     {
       id:5999900,
       PageName:"Classy",
-      pageImage:"../../../public/assets/img/whatsapp16.jpg",
+      pageImage:"/assets/img/whatsapp16.jpg",
       SubDiscription:"Sports",
       Followers:"1.8M",
       discription:"لو جاى تتفرج عشان مستنى تحليل وتكتيك .. أحب أبشرك انت فى المكان الغلط علشان احنا جايين نرزع",
@@ -159,7 +159,7 @@ const navegator = useNavigate()
     {
       id:2222001,
       PageName:" FrontEnd",
-      pageImage:"../../../public/assets/img/whatsapp14.jpg",
+      pageImage:"/assets/img/whatsapp14.jpg",
       SubDiscription:"Sports Club",
       Followers:"118M",
       discription:"More than a club. Mes que un Club We #BarcaFans #ForcaBarcA",
@@ -169,7 +169,7 @@ const navegator = useNavigate()
     {
       id:3333320001,
       PageName:"Mazike",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/public/assets/img/whatsapp13.jpg",
       SubDiscription:"Music",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",

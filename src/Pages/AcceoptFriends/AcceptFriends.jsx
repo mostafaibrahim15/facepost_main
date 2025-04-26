@@ -12,131 +12,131 @@ export default function AcceptFriends() {
         {
           id:1234,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12345,
           FriendName:"Mohamed Khaled",
-          FriendImage:"../../../public/assets/img/whatsapp3.jpg",
+          FriendImage:"/assets/img/whatsapp3.jpg",
           FriendMutual:220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp.jpg",
-            second:"../../../public/assets/img/whatsapp2.jpg"
+            first:"/assets/img/whatsapp.jpg",
+            second:"/assets/img/whatsapp2.jpg"
           }
         },
         {
           id:1234,
           FriendName:"Abdallah Samer",
-          FriendImage:"../../../public/assets/img/whatsapp2.jpg",
+          FriendImage:"/assets/img/whatsapp2.jpg",
           FriendMutual:320,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:1234,
           FriendName:"Mostafa Saied",
-          FriendImage:"../../../public/assets/img/whatsapp4.jpg",
+          FriendImage:"/assets/img/whatsapp4.jpg",
           FriendMutual:510,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp.jpg",
-            second:"../../../public/assets/img/whatsapp2.jpg"
+            first:"/assets/img/whatsapp.jpg",
+            second:"/assets/img/whatsapp2.jpg"
           }
         },
         {
           id:123466,
           FriendName:"Ahmed Anwar",
-          FriendImage:"../../../public/assets/img/whatsapp4.jpg",
+          FriendImage:"/assets/img/whatsapp4.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:1234,
           FriendName:"ibrahim Mosaad",
-          FriendImage:"../../../public/assets/img/whatsapp6.jpg",
+          FriendImage:"/assets/img/whatsapp6.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12349,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12344,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12340,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:123478,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12344521,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:12341596,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
         {
           id:1234000,
           FriendName:"Mostafa Ibrahim",
-          FriendImage:"../../../public/assets/img/whatsapp.jpg",
+          FriendImage:"/assets/img/whatsapp.jpg",
           FriendMutual:1220,
           MutualImage:{
-            first:"../../../public/assets/img/whatsapp4.jpg",
-            second:"../../../public/assets/img/whatsapp3.jpg"
+            first:"/assets/img/whatsapp4.jpg",
+            second:"/assets/img/whatsapp3.jpg"
           }
         },
       ]

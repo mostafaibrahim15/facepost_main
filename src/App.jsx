@@ -20,7 +20,7 @@ import CreatePage from "./Pages/CreatePage/CreatePage"
 function App() {
  
   return (
-    <BrowserRouter basename="/New-_FacePost"> {/* 👈 VERY IMPORTANT */}
+    <BrowserRouter basename="/Final_facepost"> {/* 👈 VERY IMPORTANT */}
     <Routes>
 
       {/* Main Layout */}

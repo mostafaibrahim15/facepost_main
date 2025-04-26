@@ -25,7 +25,7 @@ export default function Profile() {
   const myPost=[
     {
       id:20,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -33,43 +33,43 @@ export default function Profile() {
     },
     {
       id:1,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:"../../../public/assets/img/whatsapp.jpg"
+      image:"/assets/img/whatsapp.jpg"
     },
     {
       id:2,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:2010,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:200,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:2000,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:20000,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -80,35 +80,35 @@ export default function Profile() {
   const interActions=[
     {
       id:89754,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:2145214521,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:21425632541,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:2245152362,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
       image:" "
     },{
       id:278459658,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -116,7 +116,7 @@ export default function Profile() {
     },
     {
       id:140032520,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -124,15 +124,15 @@ export default function Profile() {
     },
     {
       id:3458741250,
-      AvatarImage:'../../../public/assets/img/whatsapp8.jpg',
+      AvatarImage:'/assets/img/whatsapp8.jpg',
       AvatarTitle:"AlAhly SC",
       Time:"10m",
       Discription:"الأهلي يشكر وزير الداخلية والقيادات الأمنية للموافقة على طلب النادي بالسعة الكاملة في لقاء صن داون",
-      image:"../../../public/assets/img/whatsapp7.jpg"
+      image:"/assets/img/whatsapp7.jpg"
     },
     {
       id:47845623541000,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -140,7 +140,7 @@ export default function Profile() {
     },
     {
       id:167745846958,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -148,31 +148,31 @@ export default function Profile() {
     },
     {
       id:5142514251,
-      AvatarImage:'../../../public/assets/img/whatsapp3.jpg',
+      AvatarImage:'/assets/img/whatsapp3.jpg',
       AvatarTitle:"Mohamed Khaled",
       Time:"30m",
       Discription:"i'm mohamed haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp3.jpg"
+      image:"/assets/img/whatsapp3.jpg"
     },
     {
       id:674584754213659,
-      AvatarImage:'../../../public/assets/img/whatsapp2.jpg',
+      AvatarImage:'/assets/img/whatsapp2.jpg',
       AvatarTitle:"Abdallah samer",
       Time:"30m",
       Discription:"i'm abdallah lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp2.jpg"
+      image:"/assets/img/whatsapp2.jpg"
     },
     {
       id:774123654,
-      AvatarImage:'../../../public/assets/img/whatsapp4.jpg',
+      AvatarImage:'/assets/img/whatsapp4.jpg',
       AvatarTitle:"Ahmed Anwar",
       Time:"now",
       Discription:"i'mAhmed haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp4.jpg"
+      image:"/assets/img/whatsapp4.jpg"
     },
     {
       id:8745621,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -180,7 +180,7 @@ export default function Profile() {
     },
     {
       id:97532156,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -188,15 +188,15 @@ export default function Profile() {
     },
     {
       id:10000251,
-      AvatarImage:'../../../public/assets/img/whatsapp5.jpg',
+      AvatarImage:'/assets/img/whatsapp5.jpg',
       AvatarTitle:"mostafa Saaed",
       Time:"1h",
       Discription:"i'm mostafa haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp5.jpg"
+      image:"/assets/img/whatsapp5.jpg"
     },
     {
       id:110012351234,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -204,7 +204,7 @@ export default function Profile() {
     },
     {
       id:1241253210,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -212,18 +212,18 @@ export default function Profile() {
     },
     {
       id:1375632653,
-      AvatarImage:'../../../public/assets/img/whatsapp6.jpg',
+      AvatarImage:'/assets/img/whatsapp6.jpg',
       AvatarTitle:"Ibrahem Mosaad",
       Time:"33m",
       Discription:"i'm  ibrahim haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp6.jpg"
+      image:"/assets/img/whatsapp6.jpg"
     },
   ]
   const Pages=[
     {
       id:111,
       PageName:" Al Ahly SC",
-      pageImage:"../../../public/assets/img/whatsapp8.jpg",
+      pageImage:"/assets/img/whatsapp8.jpg",
       SubDiscription:"Sports Club",
       Followers:"18M",
       discription:"wellcom to Al Ahly SC Official FacePost Page  الصفحة الرئيسية للنادلا الأهلى ",
@@ -233,7 +233,7 @@ export default function Profile() {
     {
       id:2222,
       PageName:" FC Barcelona",
-      pageImage:"../../../public/assets/img/whatsapp16.jpg",
+      pageImage:"/assets/img/whatsapp16.jpg",
       SubDiscription:"Sports Club",
       Followers:"118M",
       discription:"More than a club. Mes que un Club We #BarcaFans #ForcaBarcA",
@@ -243,7 +243,7 @@ export default function Profile() {
     {
       id:33333,
       PageName:"Real Madris C.F.",
-      pageImage:"../../../public/assets/img/whatsapp11.jpg",
+      pageImage:"/assets/img/whatsapp11.jpg",
       SubDiscription:"Sports Club",
       Followers:"128M",
       discription:"Official profile of Real Madrid C.F. 15 times European Champions",
@@ -253,7 +253,7 @@ export default function Profile() {
     {
       id:4555555,
       PageName:"Saba7o Korah - صباحو كورة",
-      pageImage:"../../../public/assets/img/whatsapp12.jpg",
+      pageImage:"/assets/img/whatsapp12.jpg",
       SubDiscription:"Interest",
       Followers:"2.2M",
       discription:"WWW.instagram.com/Nsoo7y www.Twitter.com/Nsoo7y www.Youtube.Com/Saba7oKorah",
@@ -263,7 +263,7 @@ export default function Profile() {
     {
       id:59999,
       PageName:"Erza3-أرزع",
-      pageImage:"../../../public/assets/img/whatsapp13.jpg",
+      pageImage:"/assets/img/whatsapp13.jpg",
       SubDiscription:"Sports",
       Followers:"1.8M",
       discription:"لو جاى تتفرج عشان مستنى تحليل وتكتيك .. أحب أبشرك انت فى المكان الغلط علشان احنا جايين نرزع",
@@ -292,14 +292,14 @@ export default function Profile() {
       }
      }}>
        <div className=' h-[55vh] border rounded-md relative'>
-        <img alt='profiel cover' src='../../../public/assets/img/whatsapp9.jpg' className='w-full h-full object-cover border rounded-md'/>
+        <img alt='profiel cover' src='/assets/img/whatsapp9.jpg' className='w-full h-full object-cover border rounded-md'/>
         
         <div className='bg-blue-700 border rounded-full absolute bottom-[-6%] right-[1%] w-[60px] h-[60px] flex justify-center items-center'>
        <EditIcon sx={{color:"#fff"}}/>
         </div>
 
         <div className='w-[200px] h-[200px] absolute top-[70%] left-2 bg-black border-3 border-white rounded-full'>
-        <img alt='profiel cover' src='../../../public/assets/img/whatsapp.jpg' className='w-full h-full object-cover border rounded-full'/>
+        <img alt='profiel cover' src='/assets/img/whatsapp.jpg' className='w-full h-full object-cover border rounded-full'/>
         </div>
          
         
@@ -319,10 +319,10 @@ export default function Profile() {
           <h1 className='text-slate-800'>Mostafa Ibrahim</h1>
           <h6 className='text-[.9rem] ml-4 text-slate-600'>5K <em className='text-slate-400'>followers</em> . 1.2K <em className='text-slate-400'>following</em></h6>
           <div className='flex '>
-            <Avatar alt='frinds' src='../../../public/assets/img/whatsapp2.jpg'sx={{ml:"1px",mt:2,}}/>
-            <Avatar alt='frinds' src='../../../public/assets/img/whatsapp3.jpg'sx={{ml:"1px",mt:2}}/>
-            <Avatar alt='frinds' src='../../../public/assets/img/whatsapp4.jpg'sx={{ml:"1px",mt:2}}/>
-            <Avatar alt='frinds' src='../../../public/assets/img/whatsapp5.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='/assets/img/whatsapp2.jpg'sx={{ml:"1px",mt:2,}}/>
+            <Avatar alt='frinds' src='/assets/img/whatsapp3.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='/assets/img/whatsapp4.jpg'sx={{ml:"1px",mt:2}}/>
+            <Avatar alt='frinds' src='/assets/img/whatsapp5.jpg'sx={{ml:"1px",mt:2}}/>
           </div>
         </div>
         <Divider sx={{border:"1px solid #ccc", opacity:".3", width:"90%" ,m:" 30px auto"}}/>

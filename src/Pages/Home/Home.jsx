@@ -17,15 +17,15 @@ export default function Home() {
   const myDataOfPst=[
     {
       id:1,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
-      image:"../../../public/assets/img/whatsapp.jpg"
+      image:"/assets/img/whatsapp.jpg"
     },
     {
       id:2,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -34,15 +34,15 @@ export default function Home() {
     
     {
       id:3,
-      AvatarImage:'../../../public/assets/img/whatsapp8.jpg',
+      AvatarImage:'/assets/img/whatsapp8.jpg',
       AvatarTitle:"AlAhly SC",
       Time:"10m",
       Discription:"الأهلي يشكر وزير الداخلية والقيادات الأمنية للموافقة على طلب النادي بالسعة الكاملة في لقاء صن داون",
-      image:"../../../public/assets/img/whatsapp7.jpg"
+      image:"/assets/img/whatsapp7.jpg"
     },
     {
       id:4,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -50,7 +50,7 @@ export default function Home() {
     },
     {
       id:16,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -58,31 +58,31 @@ export default function Home() {
     },
     {
       id:5,
-      AvatarImage:'../../../public/assets/img/whatsapp3.jpg',
+      AvatarImage:'/assets/img/whatsapp3.jpg',
       AvatarTitle:"Mohamed Khaled",
       Time:"30m",
       Discription:"i'm mohamed haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp3.jpg"
+      image:"/assets/img/whatsapp3.jpg"
     },
     {
       id:6,
-      AvatarImage:'../../../public/assets/img/whatsapp2.jpg',
+      AvatarImage:'/assets/img/whatsapp2.jpg',
       AvatarTitle:"Abdallah samer",
       Time:"30m",
       Discription:"i'm abdallah lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp2.jpg"
+      image:"/assets/img/whatsapp2.jpg"
     },
     {
       id:7,
-      AvatarImage:'../../../public/assets/img/whatsapp4.jpg',
+      AvatarImage:'/assets/img/whatsapp4.jpg',
       AvatarTitle:"Ahmed Anwar",
       Time:"now",
       Discription:"i'mAhmed haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp4.jpg"
+      image:"/assets/img/whatsapp4.jpg"
     },
     {
       id:8,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -90,7 +90,7 @@ export default function Home() {
     },
     {
       id:9,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -98,15 +98,15 @@ export default function Home() {
     },
     {
       id:10,
-      AvatarImage:'../../../public/assets/img/whatsapp5.jpg',
+      AvatarImage:'/assets/img/whatsapp5.jpg',
       AvatarTitle:"mostafa Saaed",
       Time:"1h",
       Discription:"i'm mostafa haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp5.jpg"
+      image:"/assets/img/whatsapp5.jpg"
     },
     {
       id:11,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -114,7 +114,7 @@ export default function Home() {
     },
     {
       id:12,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -122,15 +122,15 @@ export default function Home() {
     },
     {
       id:13,
-      AvatarImage:'../../../public/assets/img/whatsapp6.jpg',
+      AvatarImage:'/assets/img/whatsapp6.jpg',
       AvatarTitle:"Ibrahem Mosaad",
       Time:"33m",
       Discription:"i'm  ibrahim haled lorem ipsom ",
-      image:"../../../public/assets/img/whatsapp6.jpg"
+      image:"/assets/img/whatsapp6.jpg"
     },
     {
       id:14,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
@@ -138,7 +138,7 @@ export default function Home() {
     },
     {
       id:15,
-      AvatarImage:'../../../public/assets/img/whatsapp.jpg',
+      AvatarImage:'/assets/img/whatsapp.jpg',
       AvatarTitle:"mostafa Ibrahim",
       Time:"2m",
       Discription:"my name is mostafa ibrahim and i'm front end developer",
